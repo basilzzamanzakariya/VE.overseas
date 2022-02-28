@@ -54,6 +54,14 @@ a {
   -moz-transition: all 0.4s;
 }
 
+.headerform {
+  background: rgba(0, 0, 0, 0) url("../img/images/main.jpg") repeat fixed center 0 / cover  ;
+   color: #fff;
+   height: 100%;
+   overflow: hidden;
+   transition: all 0.35s ease 0s;
+}
+
 a:focus {
 	outline: none !important;
 }
